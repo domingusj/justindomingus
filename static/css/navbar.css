@@ -1,0 +1,19 @@
+body > nav > div > ul > li > a {
+  text-decoration: none;
+  font-size: 1.75em;
+}
+
+.navbar-default {
+  background: rgba(0,0,0,0);
+  border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+  font-family: 'Oxygen', serif;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #794876;
+  font-family: 'Oxygen', serif;
+}
