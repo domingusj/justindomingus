@@ -29,13 +29,6 @@ body {
   font-family: 'Oxygen', serif;
 }
 
-.logos {
-  position: relative;
-  text-align: center;
-  margin: 0 auto;
-  top: 40%;
-}
-
 #site-title {
   font-size: 4em;
 }
