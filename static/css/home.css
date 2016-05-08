@@ -1,5 +1,5 @@
 .dashboard-image {
-  height: 750px;
+  height: 835px;
   margin-top: -150px;
   background-image: url("https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?crop=entropy&fit=crop&fm=jpg&h=800&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1650");
   background-size: cover;
@@ -11,9 +11,16 @@
   text-align: center;
   width: 50%;
   margin: 0 auto;
-  top: 50%;
+  top: 40%;
   font-family: 'Oxygen', serif;
 
+}
+
+.logos {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  top: 40%;
 }
 
 #site-title {
